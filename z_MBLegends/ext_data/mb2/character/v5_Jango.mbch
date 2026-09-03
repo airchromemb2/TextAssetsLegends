@@ -158,10 +158,10 @@ WeaponInfo0
 
 	Clipsize			38
 	customAmmo			1260
-	rateMod				.93
+	rateMod				.95
 	damageMod			1.05
 	velocityMod			1.05
-	FPMult				1.12
+	FPMult				1.10
 }
 
 WeaponInfo1
@@ -263,10 +263,10 @@ Known in his heyday as one of the greatest bounty hunters in the galaxy. Boasts 
 -- 5% faster RoF
 - Jango's WESTAR-34 Blaster Pistols (3)
 -- Non-disarmable
--- 7% faster RoF
+-- 5% faster RoF
 -- 5% faster velocity
 -- 5% more damage
--- 12% more FP drain
+-- 10% more FP drain
 - Wrist Flamethrower (Thrower)
 -- 7400% slower reload
 
